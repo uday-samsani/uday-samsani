@@ -31,15 +31,15 @@ I'm a software engineer forging my path in the digital realm by crafting elegant
 
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=uday-samsani&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=uday-samsani&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=uday-samsani&theme=gruvbox&border_radius=4.5)
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 Uday's Coding Journey</h3></summary>
   My coding journey began with a simple webpage at 14. That first rush of creating something functional from nothing but logic hooked me instantly. I wasn't just writing code; I was building products that solved problems.
   While others completed assignments, I reimagined them with extra features and polished interfaces. Weekends became sacred product-building time, creating everything from custom RSS readers to local transit trackers. None made me famous, but each taught me about creating solutions to real problems.
   The excitement of building from scratch never faded. Recently, this passion led to projects like Dokusho and the Cloudinary Obsidian plugin, which started as personal tools but now help thousands of users daily. There's no better feeling than knowing something you built makes someone's day a little better.
   Now at Lambton College, I'm combining my product-building obsession with formal education in Full Stack Development—fueling the next generation of ideas I can't wait to build.
--->
+
 [website]: https://udaysamsani.com
