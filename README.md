@@ -31,7 +31,7 @@ I'm a software engineer forging my path in the digital realm by crafting elegant
 
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=uday-samsani&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=uday-samsani&theme=gruvbox&border_radius=4.5)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uday-samsani&theme=gruvbox)](https://git.io/streak-stats)
 
 #
 
